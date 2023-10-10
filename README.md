@@ -35,7 +35,6 @@ You are encouraged to modify/distribute this code. However, please acknowledge t
 	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.29851}
 }
 
-
 @misc{ZaidAlkilani2023arxiv,
 	title = "FD-Net: An Unsupervised Deep Forward-Distortion Model for Susceptibility Artifact Correction in EPI", 
 	author = "Zaid Alkilani, Abdallah AND {\c C}ukur, Tolga AND Saritas, Emine Ulku",
